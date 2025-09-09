@@ -14,7 +14,7 @@ The system detects unauthorized entry via **door and window sensors**, and trigg
 - 🔒 **Digital Logic Circuit**
    <p align="center">
   <img src="Images/Digital_Circuit.png" alt="Digital Circuit" width="45%"/>
-  <img src="Images/Arduino_Simulation.png" alt="Arduino Simulation" width="45%"/>
+  <img src="Images/PCB_Layout.png" alt="PCB Layout" width="45%"/>
    </p>
   - RC filters to reduce signal noise  
   - 555 timer for entry/exit delay simulation  
